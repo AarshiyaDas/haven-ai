@@ -58,3 +58,7 @@ User hears Haven's response
 ## Why I Built This
 
 Mental health crises don't announce themselves. Most AI tools wait for you to reach out — Haven reaches out first, using your own schedule to know when you might need support. Built in one night as a learning project exploring real-time AI streaming, multimodal web APIs, and responsible AI design.
+
+## Screenshot
+
+![Haven App](image.png)
